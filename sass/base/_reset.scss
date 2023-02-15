@@ -1,0 +1,31 @@
+ /* Resets and utilities */
+ button {
+     font: inherit;
+     border: none;
+     padding: 0;
+     cursor: pointer;
+ }
+
+ ul {
+     list-style: none;
+ }
+
+ h1,
+ h2,
+ h3,
+ ul,
+ p {
+     margin: 0;
+     padding: 0;
+ }
+
+ a {
+     text-decoration: none;
+     font-style: normal;
+ }
+
+ img {
+     display: block;
+     max-width: 100%;
+     height: auto;
+ }
